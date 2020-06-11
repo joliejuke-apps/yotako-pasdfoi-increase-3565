@@ -1,0 +1,100 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #f6f8f9
+}
+.style1 {
+  display: grid;
+  margin-left: 9.722222222222223vw;
+  margin-top: 75vh;
+  width: 25vw;
+  grid-gap: 2.7777777777777777vw
+}
+.style2 {
+  display: flex
+}
+.desktop1grid0container0col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 24.305555555555557vw;
+  flex-direction: column
+}
+.style3,
+.style4 {
+  width: 100%;
+  height: 12.5vw
+}
+.style4 {
+  object-fit: cover;
+  position: relative;
+  margin-top: 0;
+  border-radius: .4166666666666667vw .4166666666666667vw 0 0
+}
+.style3 {
+  background-color: #fff;
+  display: flex;
+  margin-top: 11.805555555555555vw;
+  border-radius: 0 0 .4166666666666667vw .4166666666666667vw
+}
+.desktop1grid0container0col0container1col0 {
+  display: flex;
+  margin-left: 2.7777777777777777vw;
+  margin-top: 3.4722222222222223vw;
+  width: 77.77777777777779%;
+  height: 6.25vw;
+  flex-direction: column
+}
+.style5,
+.style6 {
+  margin-left: 0;
+  width: 100%
+}
+.style5 {
+  font-weight: 700;
+  margin-top: 0;
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 1.1111111111111112vw;
+  height: 1.1111111111111112vw
+}
+.style6 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  font-size: .9027777777777778vw;
+  line-height: 1.5972222222222223vw;
+  margin-top: .6944444444444444vw;
+  height: 2.638888888888889vw
+}
+.desktop1grid0container0col0container1col0row2 {
+  display: flex;
+  margin-left: 0;
+  margin-top: .6944444444444444vw;
+  width: 24.642857142857146%;
+  height: 1.1111111111111112vw
+}
+.style8,
+.style9 {
+  height: 1.1111111111111112vw
+}
+.style8 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  width: 23.18840579710145%
+}
+.style9 {
+  width: 100%
+}
+.style7 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9027777777777778vw;
+  line-height: 1.8055555555555556vw;
+  margin-left: .6944444444444444vw
+}
+.breakpoint-0 {
+  display: block
+}
